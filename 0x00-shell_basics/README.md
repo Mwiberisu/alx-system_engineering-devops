@@ -13,3 +13,4 @@ Shell Scripts:
 12. 11-lists: Lists content of the current directory and the parent of the working directory and the /boot directory
 13. file_type: Prints type of a file
 14. 13-symbolic_link: Create symbolic link
+15. 14-copy_html: Copies all the HTML files from the current working directory to the parent of the working director
