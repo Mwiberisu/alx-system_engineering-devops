@@ -8,3 +8,4 @@ Shell Scripts:
 7. 6-firstdirectory: create a directory named
 8. 7-movethatfile: Move file
 9. 8-firstdelete: Delete file 
+10.9-firstdirdeletion: Remove directory
