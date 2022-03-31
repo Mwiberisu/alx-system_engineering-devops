@@ -8,5 +8,6 @@ Shell Scripts:
 7. 6-firstdirectory: create a directory named
 8. 7-movethatfile: Move file
 9. 8-firstdelete: Delete file 
-10.9-firstdirdeletion: Remove directory
-11.10-back: change the working directory to the previous one
+10. 9-firstdirdeletion: Remove directory
+11. 10-back: change the working directory to the previous one
+12. 11-lists: Lists content of the current directory and the parent of the working directory and the /boot directory
