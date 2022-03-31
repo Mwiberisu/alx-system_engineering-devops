@@ -7,3 +7,4 @@ Explains what each of the files in the folder does
 6. 5-execute: grants execute permission to owner of file hello
 7. 6-multiple_permissions: grants executable rights to owner and group
 8. 7-everybody: grants executable permissions to owner, group and others
+9. 8-James_Bond: gives others all the rights
