@@ -6,4 +6,5 @@ Shell Scripts:
 5. 4-listmorefiles: Display current directory contents, including hidden files
 6. 5-listfilesdigitonly: Display current directory contents in long, and with user and group IDs displayed numerically
 7. 6-firstdirectory: create a directory named
-8. 7-movethatfile: Move file 
+8. 7-movethatfile: Move file
+9. 8-firstdelete: Delete file 
