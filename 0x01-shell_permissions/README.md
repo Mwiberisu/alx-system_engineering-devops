@@ -9,3 +9,4 @@ Explains what each of the files in the folder does
 8. 7-everybody: grants executable permissions to owner, group and others
 9. 8-James_Bond: gives others all the rights
 10. 9-John_Doe: grants dynamic rights
+11. 10-mirror_permissions: mirrors permissions
