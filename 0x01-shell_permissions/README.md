@@ -6,3 +6,4 @@ Explains what each of the files in the folder does
 5. 4-empty: creates empty file named hello
 6. 5-execute: grants execute permission to owner of file hello
 7. 6-multiple_permissions: grants executable rights to owner and group
+8. 7-everybody: grants executable permissions to owner, group and others
