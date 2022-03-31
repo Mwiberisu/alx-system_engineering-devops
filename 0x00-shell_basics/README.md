@@ -11,3 +11,4 @@ Shell Scripts:
 10. 9-firstdirdeletion: Remove directory
 11. 10-back: change the working directory to the previous one
 12. 11-lists: Lists content of the current directory and the parent of the working directory and the /boot directory
+13. file_type: Prints type of a file
