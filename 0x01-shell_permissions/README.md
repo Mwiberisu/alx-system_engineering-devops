@@ -10,3 +10,4 @@ Explains what each of the files in the folder does
 9. 8-James_Bond: gives others all the rights
 10. 9-John_Doe: grants dynamic rights
 11. 10-mirror_permissions: mirrors permissions
+12. 11-directories_permissions: adds execute permission to all subdirectories of the current directory
