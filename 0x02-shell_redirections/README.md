@@ -6,3 +6,4 @@ Contains the below scripts:
 5. 4-lastlines: display last 10 lines of /etc/passwd
 6. 5-firstlines: display first 10 lines of /etc/passwd
 7. 6-third_line: display the third line of iacta
+8. 7-file: reates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line
