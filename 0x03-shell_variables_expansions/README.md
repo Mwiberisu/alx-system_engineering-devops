@@ -5,3 +5,4 @@ Contains the below scripts:
 4. 3-paths: counts number of directories
 5. 4-global_variables: lists env variables
 6. 5-local_variables: lists env, local variables and functions
+7. 6-create_local_variable: Creates a new local variable
