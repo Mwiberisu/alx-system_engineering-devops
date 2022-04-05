@@ -8,3 +8,4 @@ Contains the below scripts:
 7. 6-create_local_variable: Creates a new local variable
 8. 7-create_global_variable: creates a global variable
 9. 8-true_knowledge: addition
+10. 9-divide_and_rule: division
