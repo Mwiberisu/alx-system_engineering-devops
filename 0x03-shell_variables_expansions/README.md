@@ -9,3 +9,4 @@ Contains the below scripts:
 8. 7-create_global_variable: creates a global variable
 9. 8-true_knowledge: addition
 10. 9-divide_and_rule: division
+11. 10-love_exponent_breath: exponent
