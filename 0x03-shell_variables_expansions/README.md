@@ -11,3 +11,4 @@ Contains the below scripts:
 10. 9-divide_and_rule: division
 11. 10-love_exponent_breath: exponent
 12: 11-binary_to_decimal: convert binary to decimal
+13: 12-combinations: displays possible combinations
