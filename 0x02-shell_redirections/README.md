@@ -11,3 +11,4 @@ Contains the below scripts:
 10. 9-duplicate_last_line : duplicates the last line is a file
 11. 10-no_more_js: removes all file with .js extension
 12: 11-directories: counts the number of directories
+13: 12-newest_files: displays 10 newest files
